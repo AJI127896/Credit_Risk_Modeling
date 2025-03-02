@@ -4,6 +4,8 @@ This app lets you select different loan and personal details and predicts the pr
 
 Streamlit app link - https://credit-risk-modelling.streamlit.app/
 
+App User Interface
+
 ![image](https://github.com/user-attachments/assets/4399aaff-0704-4eac-a278-a42a5604be80)
 
 
